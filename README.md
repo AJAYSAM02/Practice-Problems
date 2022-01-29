@@ -1,3 +1,3 @@
 # Practice-Problems
-C/C++/Python  
+C/C++
 eLAB Problems
