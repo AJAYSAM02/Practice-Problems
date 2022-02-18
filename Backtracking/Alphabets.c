@@ -29,3 +29,4 @@ scanf("%s",str);
 int n = strlen(str);
 permute(str, 0, n-1);
 return 0;
+}
